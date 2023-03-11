@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Madhav Kumar
-- 👀 I’m interested in Algorithms, Data Engineering, Quantum Computing and Python
-- 🌱 I’m currently learning Data Science. I have 8 years of experience in SAP Development.
-- 💞️ I’m looking to collaborate on Python 
-- 📫 How to reach me +91-9663403832
+- 👀 Interested in Algorithms, Data Engineering, Python, Quantum Computing and SAP Development.
+- 🌱 Having 10 years of experience in SAP Development.
+- 💞️ Looking to collaborate on Python, PySpark, Data Science 
+- 📫 How to reach me : +91-9663403832
 
 <!---
 madhav888/madhav888 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
