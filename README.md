@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Madhav Kumar
-- 👀 Interested in Algorithms, Data Engineering, Python, Quantum Computing and SAP Development.
-- 🌱 Having 10 years of experience in SAP Development.
-- 💞️ Looking to collaborate on SAP Development, Python, Data Science 
+- 👀 Interested in Algorithms, Python, and SAP Development.
+- 🌱 Having 10+ years of experience in SAP Development.
+- 💞️ Looking to collaborate on SAP Development
 - 📫 How to reach me : +91-9663403832
 
 <!---
